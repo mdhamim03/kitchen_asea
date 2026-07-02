@@ -11,7 +11,7 @@
     <!-- COMPONENT: CART DRAWER -->
      <x-carts.cart-drawer />
     <!-- =========== Main Section Start =========== -->
-    <main id="main" class="mt-45 ">
+    <main id="main" class="">
         @yield('main_content')
     </main>
     <!-- =========== Main Section End =========== -->
